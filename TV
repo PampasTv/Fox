@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="TV", HECHICERA TV
+https://video.misistemareseller.com/corporationhc/corporationhc/chunklist_w1353340780.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", AMERICA
+https://1011-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:0 type="stream" channelId="-1" group="TV", PANAMERICANA
+https://www.dailymotion.com/cdn/live/video/x774s7s.m3u8?sec=kBUtINWvIwnp6RQVQFjri99eDtdyrLpYGzwgGclL6aUKAGowGU_Duj6gyjYPOwSs&dmTs=866260&dmV1st=debff591-9f7d-4954-985c-0536212c3231
+#EXTINF:0 type="stream" channelId="4804" group="TV", WILLAX
+https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=DcTPX3JZopEHrzL3WpiDmYhMw0CaYaW2FfICMokSc1dZwKoL_9PdCiJWb50kyV5P&dmTs=150343&dmV1st=978e5c0c-4b02-4d6c-9643-e93ba89cf698
+#EXTINF:0 type="stream" channelId="2545" group="TV", LATINA
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+#EXTINF:0 type="stream" channelId="962" group="TV", ATV
+https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8
+#EXTINF:0 type="stream" channelId="2549" group="TV", ATV+
+https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
+#EXTINF:0 type="stream" channelId="2542" group="TV", TV PERU
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", EXITOSA
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+#EXTINF:0 type="stream" channelId="4659" group="TV", CINEAR
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", LATINO KIDS
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", LOS PITUFOS
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+#EXTINF:0 type="stream" channelId="2146" group="TV", TELERITMO
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", GALACTICA TV
+https://pacific.direcnode.com:3715/hybrid/play.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV", DIRECTV SPORT
+https://pro.zorrohd8.xyz/live/ST1bb9bc0945983a7.m3u8
